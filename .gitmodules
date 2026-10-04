@@ -1,0 +1,9 @@
+[submodule "01-backend-fastapi"]
+	path = 01-backend-fastapi
+	url = https://github.com/dangnha/routes-for-AI-inference
+[submodule "02-containerize-docker"]
+	path = 02-containerize-docker
+	url = https://github.com/ThuanNaN/packaging-ai-inference-with-docker
+[submodule "03-deploy-ai-inference"]
+	path = 03-deploy-ai-inference
+	url = https://github.com/ThuanNaN/deploying-ai-inference-to-production.git
