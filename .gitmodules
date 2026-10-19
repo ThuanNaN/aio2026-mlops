@@ -1,9 +1,9 @@
 [submodule "01-routes-for-AI-inference"]
 	path = 01-routes-for-AI-inference
-	url = https://github.com/dangnha/routes-for-AI-inference
+	url = https://github.com/ThuanNaN/routes-for-AI-inference.git
 [submodule "02-packaging-AI-inference-with-docker"]
 	path = 02-packaging-AI-inference-with-docker
-	url = https://github.com/ThuanNaN/packaging-ai-inference-with-docker
+	url = https://github.com/ThuanNaN/packaging-ai-inference-with-docker.git
 [submodule "03-deploy-AI-inference-to-production"]
 	path = 03-deploy-AI-inference-to-production
 	url = https://github.com/ThuanNaN/deploying-ai-inference-to-production.git
